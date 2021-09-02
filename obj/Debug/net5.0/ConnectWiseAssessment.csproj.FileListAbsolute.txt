@@ -1,0 +1,16 @@
+C:\src\ConnectWiseAssessment\bin\Debug\net5.0\ConnectWiseAssessment.exe
+C:\src\ConnectWiseAssessment\bin\Debug\net5.0\ConnectWiseAssessment.deps.json
+C:\src\ConnectWiseAssessment\bin\Debug\net5.0\ConnectWiseAssessment.runtimeconfig.json
+C:\src\ConnectWiseAssessment\bin\Debug\net5.0\ConnectWiseAssessment.runtimeconfig.dev.json
+C:\src\ConnectWiseAssessment\bin\Debug\net5.0\ConnectWiseAssessment.dll
+C:\src\ConnectWiseAssessment\bin\Debug\net5.0\ref\ConnectWiseAssessment.dll
+C:\src\ConnectWiseAssessment\bin\Debug\net5.0\ConnectWiseAssessment.pdb
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.AssemblyInfoInputs.cache
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.AssemblyInfo.cs
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.csproj.CoreCompileInputs.cache
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.dll
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ref\ConnectWiseAssessment.dll
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.pdb
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.genruntimeconfig.cache
+C:\src\ConnectWiseAssessment\obj\Debug\net5.0\ConnectWiseAssessment.csproj.AssemblyReference.cache
