@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectWiseAssessment", "ConnectWiseAssessment.csproj", "{0A383D27-E9FD-4A8D-A152-E50C8F919019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A383D27-E9FD-4A8D-A152-E50C8F919019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A383D27-E9FD-4A8D-A152-E50C8F919019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A383D27-E9FD-4A8D-A152-E50C8F919019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A383D27-E9FD-4A8D-A152-E50C8F919019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD8EFE1-69C5-44A8-93ED-6C0A5670C340}
+	EndGlobalSection
+EndGlobal
